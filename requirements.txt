@@ -1,0 +1,4 @@
+APScheduler
+pydub
+pyTelegramBotAPI
+requests
