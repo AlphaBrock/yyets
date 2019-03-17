@@ -18,9 +18,9 @@ import config
 # import turing
 import yyets
 # import utils
-# from __init__ import __author__, __version__, __credits__, __website__, BANNER
-# from utils import msg_logger
-# from timer import checker
+from __init__ import __author__, __version__, __credits__, __website__, BANNER
+#from utils import msg_logger
+from timer import checker
 # from weather import forecast_5d
 
 TOKEN = os.environ.get('TOKEN') or config.TOKEN
